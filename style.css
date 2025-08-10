@@ -1,0 +1,142 @@
+.header {
+    font-family: "Bungee", sans-serif;
+    font-size: 50px;
+    background-color: rgba(252, 179, 191, 0.863);
+    text-align: center;
+    padding: 20px;
+    border-radius: 40px;
+    margin: 30px;
+    color: rgba(112, 23, 23, 0.952);
+}
+
+body {
+    font-family: "Indie Flower", cursive;
+    margin: 0;
+    color: rgba(112, 23, 23, 0.952);
+}
+
+.nav-h2 {
+    text-align: center;
+}
+
+.nav-ul {
+    list-style-type: none;
+    display: flex;
+    margin: 40px;
+}
+
+.nav-ul_li {
+    margin: auto;
+}
+
+.nav-ul_li_a {
+    text-decoration: none;
+    color: aliceblue;
+    background-color: rgba(252, 179, 191, 0.863);
+    padding: 15px;
+    font-size: 20px;
+    border-radius: 20px;
+    transition-property: color, background-color, border, padding;
+    transition-duration: 0.2s;
+}
+
+.nav-ul_li_a:hover {
+    color: rgba(252, 179, 191, 0.863);
+    background-color: aliceblue;
+    border: 2px solid rgba(252, 179, 191, 0.863);
+    padding: 20px;
+}
+
+.main {
+    margin: 50px;
+    font-size: 25px;
+}
+
+.video-lupa {
+    width: 500px;
+    border-radius: 10px;
+}
+
+.seccion {
+    margin: 20px;
+    padding: 20px;
+    background-color: rgba(247, 202, 210, 0.863);
+    border-radius: 20px;
+}
+
+.porque {
+    column-count: 2;
+}
+
+.img-lupa {
+    width: 500px;
+    border-radius: 10px;
+    transition-property: width;
+    transition-duration: 0.2s;
+}
+
+.img-lupa:hover {
+    width: 550px;
+}
+
+.footer {
+    background-color: rgba(252, 179, 191, 0.863);
+    font-size: 20px;
+    padding: 70px;
+    column-count: 2;
+    column-gap: 90px;
+}
+
+.footer-img {
+    width: 250px;
+}
+
+.nosotros {
+    width: 400px;
+}
+
+.nosotros-div {
+    text-align: center;
+}
+
+.cancion {
+    width: 400px;
+    transition-duration: 0.2s;
+    transition-property: width;
+}
+
+.cancion:hover {
+    width: 450px;
+}
+
+.cancionn {
+    text-align: center;
+}
+
+.dibujito {
+    width: 250px;
+    border-radius: 20px;
+}
+
+.dibujitoss {
+    column-count: 2;
+}
+
+.lupa2 {
+    width: 500px;
+    text-align: center;
+}
+
+.boda {
+    column-count: 2;
+}
+
+.yoo {
+    width: 250px;
+    text-align: center;
+    border-radius: 40px;
+}
+
+.yo {
+    text-align: center;
+}
